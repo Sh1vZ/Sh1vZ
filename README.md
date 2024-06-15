@@ -1,26 +1,26 @@
-# Well, Hello there! <img src="https://raw.githubusercontent.com/Sh1vZ/Sh1vZ/10256fea83c44a529045bec62344fa6ea2fb482a/assets/wave.gif" width="40">
+### Well, Hello there! <img src="https://raw.githubusercontent.com/Sh1vZ/Sh1vZ/10256fea83c44a529045bec62344fa6ea2fb482a/assets/wave.gif" width="30">
 
 <br/>
-<center >
+<p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Quantico&size=24&duration=1700&pause=1100&color=F78613&center=true&random=false&width=435&lines=I'm+Shivam+A.K.A+ShivZ;Software+Developer" alt="TypSVG" />
-<center >
-<a href="https://t.me/ShivZx_x"><img src="https://img.shields.io/badge/Telegram-0088cc?style=for-the-badge&logo=telegram" alt="Telegram" /></a>
-<a href="mailto:shivam.bhagwandas@proton.me"><img src="https://img.shields.io/badge/Mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Mail" /></a>
-</center>
-</center>
+<p>
 <br/>
+
 <img src="https://komarev.com/ghpvc/?username=Sh1vZ&label=Profile%20views&color=f78613&style=for-the-badge" >
 
 <img src="https://raw.githubusercontent.com/Sh1vZ/Sh1vZ/main/assets/divider.gif">
 
-## <img src="https://raw.githubusercontent.com/Sh1vZ/Sh1vZ/main/assets/about-me.webp" width="75" align="center">About me
-I'm Shivam, a passionate Software Developer based in Suriname. I have a keen interest in building, designing, and deploying efficient and scalable applications.
+### <img src="https://raw.githubusercontent.com/Sh1vZ/Sh1vZ/main/assets/about-me.webp" width="75" align="center">About me
+
+I'm Shivam, a passionate Software Developer based in Suriname. I have a keen interest in building, designing, and
+deploying efficient and scalable applications.
 
 <img src="https://raw.githubusercontent.com/Sh1vZ/Sh1vZ/main/assets/divider.gif">
 
-## <img src="https://raw.githubusercontent.com/Sh1vZ/Sh1vZ/main/assets/language-tools.webp" width="75" align="center"> Languages and Tools
+### <img src="https://raw.githubusercontent.com/Sh1vZ/Sh1vZ/main/assets/language-tools.webp" width="75" align="center"> Languages and Tools
 
 ### Languages
+
 <p align="center">
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
@@ -30,6 +30,7 @@ I'm Shivam, a passionate Software Developer based in Suriname. I have a keen int
 </p>
 
 ### Frameworks and Libraries
+
 <p align="center">
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
   <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white" alt="Vue.js" /> 
@@ -46,6 +47,7 @@ I'm Shivam, a passionate Software Developer based in Suriname. I have a keen int
 </p>
 
 ### Tools and Platforms
+
 <p align="center">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
@@ -55,6 +57,7 @@ I'm Shivam, a passionate Software Developer based in Suriname. I have a keen int
 </p>
 
 ### Databases
+
 <p align="center">
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
@@ -65,9 +68,7 @@ I'm Shivam, a passionate Software Developer based in Suriname. I have a keen int
 
 <img src="https://raw.githubusercontent.com/Sh1vZ/Sh1vZ/main/assets/divider.gif">
 
-
-
-## <img src="https://raw.githubusercontent.com/Sh1vZ/Sh1vZ/main/assets/connect-with-me.webp" width="75" align="center"> Connect with me
+### <img src="https://raw.githubusercontent.com/Sh1vZ/Sh1vZ/main/assets/connect-with-me.webp" width="85" align="center"> Connect with me
 
 <a href="https://t.me/ShivZx_x"><img src="https://img.shields.io/badge/Telegram-0088cc?style=for-the-badge&logo=telegram" alt="Telegram" /></a>
 <a href="mailto:shivam.bhagwandas@proton.me"><img src="https://img.shields.io/badge/Mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Mail" /></a>
