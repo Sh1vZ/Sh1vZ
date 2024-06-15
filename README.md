@@ -4,6 +4,10 @@
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Quantico&size=24&duration=1700&pause=1100&color=F78613&center=true&random=false&width=435&lines=I'm+Shivam+A.K.A+ShivZ;Software+Developer" alt="TypSVG" />
 <p>
+<p align="center">
+<a target="_blank" href="https://t.me/ShivZx_x"><img src="https://img.shields.io/badge/Telegram-0088cc?style=for-the-badge&logo=telegram" alt="Telegram" /></a>
+<a target="_blank" href="mailto:shivam.bhagwandas@proton.me"><img src="https://img.shields.io/badge/Mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Mail" /></a>
+</p>
 <br/>
 
 <img src="https://komarev.com/ghpvc/?username=Sh1vZ&label=Profile%20views&color=f78613&style=for-the-badge" >
@@ -70,8 +74,8 @@ deploying efficient and scalable applications.
 
 ### <img src="https://raw.githubusercontent.com/Sh1vZ/Sh1vZ/main/assets/connect-with-me.webp" width="85" align="center"> Connect with me
 
-<a href="https://t.me/ShivZx_x"><img src="https://img.shields.io/badge/Telegram-0088cc?style=for-the-badge&logo=telegram" alt="Telegram" /></a>
-<a href="mailto:shivam.bhagwandas@proton.me"><img src="https://img.shields.io/badge/Mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Mail" /></a>
+<a target="_blank" href="https://t.me/ShivZx_x"><img src="https://img.shields.io/badge/Telegram-0088cc?style=for-the-badge&logo=telegram" alt="Telegram" /></a>
+<a target="_blank" href="mailto:shivam.bhagwandas@proton.me"><img src="https://img.shields.io/badge/Mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Mail" /></a>
 
 <img src="https://raw.githubusercontent.com/Sh1vZ/Sh1vZ/main/assets/divider.gif">
 
